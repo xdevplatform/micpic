@@ -4,6 +4,8 @@ Easily stan your favorite K-pop stars from the comfort of your home screen via a
 
 This widget connects to Twitter's [Recent Search](https://developer.twitter.com/en/docs/twitter-api/tweets/search/introduction) to get the most recent K-pop related images. Images are detected to be about K-pop through [Tweet annotations](https://developer.twitter.com/en/docs/twitter-api/annotations).
 
+![Widget preview](https://github.com/twitterdev/micpic/raw/main/preview.png)
+
 ## How does it work?
 
 1. Every day, the widget asks the Twitter API for 24 K-pop related Tweets.
